@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercVetores\bin\Debug\net7.0\ExercVetores.exe
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercVetores\bin\Debug\net7.0\ExercVetores.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercVetores\bin\Debug\net7.0\ExercVetores.runtimeconfig.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercVetores\bin\Debug\net7.0\ExercVetores.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercVetores\bin\Debug\net7.0\ExercVetores.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercVetores\obj\Debug\net7.0\ExercVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercVetores\obj\Debug\net7.0\ExercVetores.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercVetores\obj\Debug\net7.0\ExercVetores.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercVetores\obj\Debug\net7.0\ExercVetores.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercVetores\obj\Debug\net7.0\ExercVetores.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercVetores\obj\Debug\net7.0\refint\ExercVetores.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercVetores\obj\Debug\net7.0\ExercVetores.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercVetores\obj\Debug\net7.0\ExercVetores.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercVetores\obj\Debug\net7.0\ref\ExercVetores.dll
